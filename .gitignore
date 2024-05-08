@@ -27,7 +27,7 @@ yarn-error.log*
 /server/latest_log
 /server/__debug_bin*
 
-/server/api
+/server/build
 /server/config.yaml
 
 *.iml
